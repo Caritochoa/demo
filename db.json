@@ -2,7 +2,7 @@
   "person": 
     {"id": "52518448", "name": "Carolina Ochoa },
     
-  ,
+  
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
